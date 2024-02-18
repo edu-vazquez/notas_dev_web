@@ -1,0 +1,8 @@
+
+/* USAR AUTO PARA CENTRAR*/
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
+}
+
